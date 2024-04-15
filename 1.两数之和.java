@@ -5,10 +5,15 @@
  */
 
 // @lc code=start
+
+import java.util.*;
+import java.util.Map;
+import java.util.Set;
+
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // TEST
-        return nums;
+
+        return new int[]{-1, -1};
     }
 }
 // @lc code=end
